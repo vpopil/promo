@@ -1,6 +1,10 @@
 ---
 title: The Case of the Italian Olives
 ---
+> **Created by:**
+*David Loving*
+*Ilan Dor*
+*Volodymyr Popil*
 
 <img style="float: right;" src="img/police-line.jpg">
 
