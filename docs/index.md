@@ -2,7 +2,7 @@
 title: The Case of the Italian Olives
 ---
 
-![Image](crime-scene.jpg)
+![Image](img/crime-scene.jpg)
 
 This is the home page
 
@@ -19,4 +19,11 @@ $$ G_{\mu\nu} + \Lambda g_{\mu\nu}  = 8 \pi T_{\mu\nu} . $$
 
 ![png](img/report_requirements.png)
 
-<div style="text-align: right"> ![png](crime-scene.jpg) </div>
+<div style="text-align: right"> ![png](img/crime-scene.jpg) </div>
+![png](img/crime-scene.jpg)
+
+
+hey
+
+
+<img style="float: right;" src="img/crime-scene.jpg">
