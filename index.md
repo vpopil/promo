@@ -1,2 +1,0 @@
-Discounts
-`hey`
