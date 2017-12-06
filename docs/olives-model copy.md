@@ -1,22 +1,11 @@
 ---
 title: Models Copy
-notebook: olives-model.ipynb
+notebook: olives-modelaaa.ipynb
 nav_include: 3
 ---
 
 ## Contents
-{:.no_toc}
-*  
-{: toc}
-
-
-{:.no_toc}
-*  
-{: toc}
-
-
-{:.no_toc}
-*  
+  
 {: toc}
 
 
