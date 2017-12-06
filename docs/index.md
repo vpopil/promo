@@ -2,7 +2,7 @@
 title: The Case of the Italian Olives
 ---
 
-<img style="float: right;" src="img/crime-scene.jpg">
+<img style="float: right;" src="img/police-line.jpg">
 
 This is the home page
 
